@@ -1,4 +1,4 @@
-![proftop-optimized](https://user-images.githubusercontent.com/61068742/219360461-304e6ea6-178f-4ee8-b930-ff61aa50dc5b.gif)
+
 
 ## Hiya, I'm Nobu 🐈
 I'm a software developer located in East Moline, Illinois, specializing in creating high-quality websites and applications. I also enjoy making libraries and quality-of-life packages for multiple different code ecosystems. I am very passionate about my work, whether it is something silly or industry-changing. I hope you find something helpful or worth a laugh while browsing <3
