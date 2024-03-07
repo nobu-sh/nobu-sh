@@ -23,3 +23,7 @@ Some of the technologies I use the most:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+<br />
+
+[Portfolio](https://nobu.sh)  -  [LinkedIn](https://www.linkedin.com/in/nobu-sh/)  -  [chat@nobu.sh](mailto:chat@nobu.sh)
