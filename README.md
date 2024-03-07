@@ -4,7 +4,7 @@
 I'm a software developer located in East Moline, Illinois, specializing in creating high-quality websites and applications. I also enjoy making libraries and quality-of-life packages for multiple different ecosystems. I am very passionate about my work, whether it is something silly or industry-changing. I hope you find something helpful or worth a laugh while browsing.
 
 ## What I Know ⚙️
-I have been at the keyboard for about 6 years now, but I still aspire to gain more knowledge and learn from my mistakes. I enjoy challenges and quickly catch on to new things.
+I have been at the keyboard for about 7 years now, but I still aspire to gain more knowledge and learn from my mistakes. I enjoy challenges and quickly catch on to new things.
 
 Some of the technologies I use the most:
 
